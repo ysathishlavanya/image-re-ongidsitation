@@ -1,0 +1,22 @@
+body{
+    color : white;
+    background  : blue;
+
+}
+
+.heading{
+    width : 80%;
+    font-size : 22px;
+}
+
+#name_of_object{
+    color : blue;
+}
+
+#camera{
+    border : 2px dashed white;
+    width : 350px;
+    height : 300px;
+
+
+}
